@@ -15,3 +15,7 @@
  **I have successfully completed the File Handling Utility task, which involved creating a Java program to perform file read, write, and modify operations.
 To accomplish this, I utilized various learning resources such as YouTube tutorials, ChatGPT assistance, and discussions with my friends to understand the concepts clearly and implement the code effectively.
 The entire coding and execution process was done using the Command Prompt (CMD) as the editor platform on Windows. The task was executed properly, and I obtained the desired output as expected.
+
+*output
+
+![Image](https://github.com/user-attachments/assets/ff490b00-0467-45bd-a151-49f060acc34e)
